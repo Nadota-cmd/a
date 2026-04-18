@@ -65,7 +65,7 @@ def run_prank():
 if os.name == 'nt':
     ctypes.windll.user32.ShowWindow(ctypes.windll.kernel32.GetConsoleWindow(), 0)
 
-print("Агент Pando запущен...")
+print("Ыыыы хуйлан малолетний...")
 
 while True:
     try:
